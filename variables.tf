@@ -9,7 +9,7 @@ variable "common-name-value" {
 }
 
 variable "account"{
-    default = "069623884547"
+    default = ""
 }
 
 variable "destinationbucketname"{
